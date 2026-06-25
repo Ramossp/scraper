@@ -1,0 +1,8 @@
+flask
+requests
+beautifulsoup4
+python-docx
+pillow
+openai
+python-dotenv
+pytz
